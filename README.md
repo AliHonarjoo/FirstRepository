@@ -4,6 +4,6 @@ This is a first repository for learning
 
 Pleas read to end
 
-```
+```CMD
 ping 8.8.8.8
 ```
